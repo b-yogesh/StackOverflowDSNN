@@ -36,7 +36,7 @@ I took this dataset for my project as I was interested in understanding and answ
 5. What factors associate with high salary?
 
 ## File Descriptions <a name="files"></a>
-`stackoverflowdsnn.ipynb`: This is notebook where I explore, wrangle the data and try to extract the answers to the questions above.
+`stackoverflowsurvey-analysis.ipynb`: This is notebook where I explore, wrangle the data and try to extract the answers to the questions above.
 I have added comments for a better understanding of the thought process for my individual steps. 
 
 
