@@ -42,7 +42,7 @@ I have added comments for a better understanding of the thought process for my i
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://yogesh-kumar.medium.com/analyzing-stackoverflow-survey-2019-and-2020-7b487fb672c1).
 
 ## Licensing, Authors, Acknowledgement<a name="licensing"></a>
 Thanks to Udacity for offering the Nanodegree and to Stack Overflow for providing the [dataset](https://insights.stackoverflow.com/survey)
